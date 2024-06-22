@@ -1,4 +1,5 @@
-### Project Overview: Data Science Internship - Dashboard Projects Using Excel
+# Project Overview
+## Data Science Internship - Dashboard Projects Using Excel
 
 #### 1. **Introduction**
 During my data science internship, I focused on creating interactive and insightful dashboards using Microsoft Excel. The primary goal was to leverage Excel's robust data visualization and analytical capabilities to transform raw data into meaningful insights. This project overview outlines the key aspects, methodologies, and outcomes of my work.
